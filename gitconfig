@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lauraalvarezfuentes@gmail.com
+	name = Laura Alvarez
